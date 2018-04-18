@@ -12,7 +12,7 @@ import org.springframework.web.bind.annotation.RestController;
 public class HelloWordController {
     @RequestMapping(value = "/index",method = RequestMethod.GET)
     public String index(){
-        return "Hello word";
+        return "index";
     }
 
 
