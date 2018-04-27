@@ -67,6 +67,12 @@
 			<version>5.1.6</version>
 			<scope>runtime</scope>
 		</dependency>
+		<!--Druid-->
+		<dependency>
+			<groupId>com.alibaba</groupId>
+			<artifactId>druid</artifactId>
+			<version>1.0.29</version>
+		</dependency>
 	</dependencies>
 	<build>
 		<plugins>
